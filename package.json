@@ -4,7 +4,8 @@
   "description": "Transpile code in babel project",
   "main": "main.js",
   "scripts": {
-    "test": "echo Test TBD"
+    "test": "echo Test TBD",
+    "build": "babel src -d lib"
   },
   "repository": {
     "type": "git",
