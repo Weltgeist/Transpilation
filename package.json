@@ -1,0 +1,24 @@
+{
+  "name": "babel-project",
+  "version": "1.0.0",
+  "description": "Transpile code in babel project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo Test TBD"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weltgeist/Transpilation.git"
+  },
+  "keywords": [
+    "Transpilation",
+    "ES6+",
+    "ES5"
+  ],
+  "author": "Samuel Narcisse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weltgeist/Transpilation/issues"
+  },
+  "homepage": "https://github.com/Weltgeist/Transpilation#readme"
+}
